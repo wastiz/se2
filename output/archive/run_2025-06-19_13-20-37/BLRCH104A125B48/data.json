@@ -1,0 +1,621 @@
+{
+  "product_url": "https://www.se.com/be/en/product/BLRCH104A125B48/heavy-duty-powerlogic-pfc-capacitor-10-4-12-5-kvar-480-v-50-60hz/",
+  "lang": "en",
+  "sku": "BLRCH104A125B48",
+  "name": "heavy duty PowerLogic PFC Capacitor, 10.4/12.5 kvar - 480 V - 50/60Hz",
+  "description": "VarPlus Can capacitor are a reliable and flexible solution for power factor correction in stringent operating conditions. These capacitors are particularly used for higher voltage disturbances or when a few non-linear loads are present. The rated current of the capacitors must be in increased in order to cope with the circulation of the harmonic current. This capacitor provides a rated output power of 10.4 kVar at 480V AC, 50 Hz. Fastening assured by a ClampTite terminal. This component meet the standards IEC 60831-1 and IEC 60831-2. The case product weight is 1.2 kg.",
+  "specifications": [
+    {
+      "tableName": "Main",
+      "rows": [
+        {
+          "characteristicName": "Range",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "PowerLogic",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Range of product",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "PowerLogic",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Product or component type",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "Heavy duty capacitor",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "product name",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "PowerLogic PFC Capacitor",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Network frequency",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "50/60 Hz",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Series name",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "HDuty",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Network harmonic content",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "<= 20 %",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Electrical parameters",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "10.4 kvar 480 V 50 Hz<br />12.5 kvar 480 V 60 Hz",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Maximum permissible voltage",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "1.1 x Un (8 hours over 24 hours)",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "continuous overcurrent capacity",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "1.8 x In",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Rated voltage",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "480 V AC 50/60 Hz",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tableName": "Complementary",
+      "rows": [
+        {
+          "characteristicName": "Dielectric losses",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "< 0.2 W/kvar",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Power losses",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "< 0.5 W/kVAr",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Capacitance tolerance",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "- 5 % to 10 %",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Voltage test",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "2.15 x Un AC between terminals for 10 s<br /><= 660 V - 3 kV AC between terminal and container for 10 s<br />>= 660 V - 6 kV AC between terminal and container for 10 s",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Inrush current",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "250 x In",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Maximum switching operation per year",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "7000",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Service life in hours",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "130000 h",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Dielectric material",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "Metallized polypropylene film with Zn/Al alloy, special resistivity & profile, special edge (wave cut)",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Impregnation material",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "Non-PCB dry PUR resin<br />Biodegradable",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Type of installation",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "Indoor installation",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Connections - terminals",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "ClampTite terminal",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Mounting mode",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "Upright/horizontal",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Diameter",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "75 mm",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Height",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "233 mm",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Net weight",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "1.2 kg",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tableName": "Environment",
+      "rows": [
+        {
+          "characteristicName": "Standards",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "IEC 60831-2<br />IEC 60831-1",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "IP degree of protection",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "IP20",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Operating altitude",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "2000 m",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Temperature class",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "D",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Ambient air temperature for operation",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "-25â¦55 Â°C",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Relative humidity",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "95 %",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tableName": "Packing Units",
+      "rows": [
+        {
+          "characteristicName": "Unit Type of Package 1",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "PCE",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Number of Units in Package 1",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "1",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Package 1 Height",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "11.500 cm",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Package 1 Width",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "12.500 cm",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Package 1 Length",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "28.500 cm",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Package 1 Weight",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "1.319 kg",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Unit Type of Package 2",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "S03",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Number of Units in Package 2",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "6",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Package 2 Height",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "30.000 cm",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Package 2 Width",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "30.000 cm",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Package 2 Length",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "40.000 cm",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Package 2 Weight",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "8.714 kg",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tableName": "Contractual warranty",
+      "rows": [
+        {
+          "characteristicName": "Warranty",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "18 months",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "image_url": "https://download.schneider-electric.com/files?p_Doc_Ref=BLRCH104A125B48_Image&p_File_Type=rendition_1500_jpg",
+  "datasheet_url": "https://www.se.com/be/en/product/download-pdf/BLRCH104A125B48?filename=Schneider+Electric_PowerLogic-PFC-Capacitors_BLRCH104A125B48.pdf"
+}

@@ -1,0 +1,47 @@
+sku,name,description,image,specifications
+BLRCH104A125B48,"heavy duty PowerLogic PFC Capacitor, 10.4/12.5 kvar - 480 V - 50/60Hz","VarPlus Can capacitor are a reliable and flexible solution for power factor correction in stringent operating conditions. These capacitors are particularly used for higher voltage disturbances or when a few non-linear loads are present. The rated current of the capacitors must be in increased in order to cope with the circulation of the harmonic current. This capacitor provides a rated output power of 10.4 kVar at 480V AC, 50 Hz. Fastening assured by a ClampTite terminal. This component meet the standards IEC 60831-1 and IEC 60831-2. The case product weight is 1.2 kg.
+Range: PowerLogic
+Range of product: PowerLogic
+Product or component type: Heavy duty capacitor
+product name: PowerLogic PFC Capacitor
+Network frequency: 50/60 Hz
+Series name: HDuty
+Network harmonic content: <= 20 %
+Electrical parameters: 10.4 kvar 480 V 50 Hz<br />12.5 kvar 480 V 60 Hz
+Maximum permissible voltage: 1.1 x Un (8 hours over 24 hours)
+continuous overcurrent capacity: 1.8 x In
+Rated voltage: 480 V AC 50/60 Hz
+Dielectric losses: < 0.2 W/kvar
+Power losses: < 0.5 W/kVAr
+Capacitance tolerance: - 5 % to 10 %
+Voltage test: 2.15 x Un AC between terminals for 10 s<br /><= 660 V - 3 kV AC between terminal and container for 10 s<br />>= 660 V - 6 kV AC between terminal and container for 10 s
+Inrush current: 250 x In
+Maximum switching operation per year: 7000
+Service life in hours: 130000 h
+Dielectric material: Metallized polypropylene film with Zn/Al alloy, special resistivity & profile, special edge (wave cut)
+Impregnation material: Non-PCB dry PUR resin<br />Biodegradable
+Type of installation: Indoor installation
+Connections - terminals: ClampTite terminal
+Mounting mode: Upright/horizontal
+Diameter: 75 mm
+Height: 233 mm
+Net weight: 1.2 kg
+Standards: IEC 60831-2<br />IEC 60831-1
+IP degree of protection: IP20
+Operating altitude: 2000 m
+Temperature class: D
+Ambient air temperature for operation: -25â¦55 Â°C
+Relative humidity: 95 %
+Unit Type of Package 1: PCE
+Number of Units in Package 1: 1
+Package 1 Height: 11.500 cm
+Package 1 Width: 12.500 cm
+Package 1 Length: 28.500 cm
+Package 1 Weight: 1.319 kg
+Unit Type of Package 2: S03
+Number of Units in Package 2: 6
+Package 2 Height: 30.000 cm
+Package 2 Width: 30.000 cm
+Package 2 Length: 40.000 cm
+Package 2 Weight: 8.714 kg
+Warranty: 18 months",output/media/BLRCH104A125B48.png,"{""Range"":""POWERLOGIC"",""Range of product"":""POWERLOGIC"",""Product or component type"":""HEAVY DUTY CAPACITOR"",""product name"":""POWERLOGIC PFC CAPACITOR"",""Network frequency"":""50\/60 HZ"",""Series name"":""HDUTY"",""Network harmonic content"":""<= 20 %"",""Electrical parameters"":""10.4 KVAR 480 V 50 HZ<BR \/>12.5 KVAR 480 V 60 HZ"",""Maximum permissible voltage"":""1.1 X UN (8 HOURS OVER 24 HOURS)"",""continuous overcurrent capacity"":""1.8 X IN"",""Rated voltage"":""480 V AC 50\/60 HZ"",""Dielectric losses"":""< 0.2 W\/KVAR"",""Power losses"":""< 0.5 W\/KVAR"",""Capacitance tolerance"":""- 5 % TO 10 %"",""Voltage test"":""2.15 X UN AC BETWEEN TERMINALS FOR 10 S<BR \/><= 660 V - 3 KV AC BETWEEN TERMINAL AND CONTAINER FOR 10 S<BR \/>>= 660 V - 6 KV AC BETWEEN TERMINAL AND CONTAINER FOR 10 S"",""Inrush current"":""250 X IN"",""Maximum switching operation per year"":""7000"",""Service life in hours"":""130000 H"",""Dielectric material"":""METALLIZED POLYPROPYLENE FILM WITH ZN\/AL ALLOY, SPECIAL RESISTIVITY & PROFILE, SPECIAL EDGE (WAVE CUT)"",""Impregnation material"":""NON-PCB DRY PUR RESIN<BR \/>BIODEGRADABLE"",""Type of installation"":""INDOOR INSTALLATION"",""Connections - terminals"":""CLAMPTITE TERMINAL"",""Mounting mode"":""UPRIGHT\/HORIZONTAL"",""Diameter"":""75 MM"",""Height"":""233 MM"",""Net weight"":""1.2 KG"",""Standards"":""IEC 60831-2<BR \/>IEC 60831-1"",""IP degree of protection"":""IP20"",""Operating altitude"":""2000 M"",""Temperature class"":""D"",""Ambient air temperature for operation"":""-25â¦55 Â°C"",""Relative humidity"":""95 %"",""Unit Type of Package 1"":""PCE"",""Number of Units in Package 1"":""1"",""Package 1 Height"":""11.500 CM"",""Package 1 Width"":""12.500 CM"",""Package 1 Length"":""28.500 CM"",""Package 1 Weight"":""1.319 KG"",""Unit Type of Package 2"":""S03"",""Number of Units in Package 2"":""6"",""Package 2 Height"":""30.000 CM"",""Package 2 Width"":""30.000 CM"",""Package 2 Length"":""40.000 CM"",""Package 2 Weight"":""8.714 KG"",""Warranty"":""18 MONTHS""}"

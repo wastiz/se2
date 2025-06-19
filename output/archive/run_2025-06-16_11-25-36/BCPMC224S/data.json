@@ -1,0 +1,582 @@
+{
+  "product_url": "https://www.se.com/us/en/product/BCPMC224S/bcpm-power-monitoring-basic-24-solid-core-100-a-18-mm-ct-spacing/",
+  "lang": "en",
+  "sku": "BCPMC224S",
+  "name": "BCPM power monitoring basic - 24 solid core 100 A - 18 mm CT spacing",
+  "description": "This is an integrated solution for monitoring multi-circuits and mains by using a single meter. The meter is designed for use in new build and is used for critical power operations in data centres and energy management in buildings. It offers class 1 (1 %) power and energy system accuracy (100A solid core current transformers) on all branch channels. The BCPM monitors only the 24 branch circuits current. All to provide information on the complete Power Distribution Unit. Full alarming capabilities ensure that potential issues are dealt with before they become problems. Communication enabled with a RS485 serial port and the Modbus protocol support, more communication options with the gateway H8951. The meter need to be powered by a 90V AC to 277V AC supply source. Include 2 18-CTs board strips with 18mm spacing between each CT connectors, for 24 circuits. The device dimensions are 228mm in width, 146mm in height and weight 1.5 kilograms.",
+  "specifications": [
+    {
+      "tableName": "Main",
+      "rows": [
+        {
+          "characteristicName": "Range",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "PowerLogic",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "product name",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "PowerLogic BCPM",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Product or Component Type",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "Multi-circuit energy meter",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Device short name",
+          "characteristicValues": [
+            {
+              "needUpperCase": false,
+              "displayLinkIcon": false,
+              "labelText": "BCPMC",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Model type",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "Basic",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Power monitoring",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "Basic instrumentation",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Energy management",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "Sub billing and cost allocation",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Device Application",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "Sub billing",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Type of measurement",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "Current",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "[Us] rated supply voltage",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "90...277 V AC 50/60 Hz +/- 1 %",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Network Frequency",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "50 Hz<br />60 Hz",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tableName": "Complementary",
+      "rows": [
+        {
+          "characteristicName": "current transformer input",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "Solid core CT 100 A24 x",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Update time",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "1.8 s",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Measurement voltage",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "90â¦277 V phase to neutral<br />150â¦480 V phase to phase",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Measurement accuracy",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "Current 2 % 0.25â¦2 A<br />Current 1 % 2â¦100 A",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Sampling rate",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "256 samples/cycle",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Connection pitch",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "0.7 in (18 mm)",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Provided equipment",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "24 x current transformer",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Communication port protocol",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "Modbus RTU",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Communication port support",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "RS485",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Communication of data",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "Low-low current alarm<br />High-high current alarm<br />Low current alarm<br />High current alarm",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tableName": "Environment",
+      "rows": [
+        {
+          "characteristicName": "Mounting Mode",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "Panel-mounted",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Mounting Support",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "Panel<br />Enclosure",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Relative humidity",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "0â¦95 % 32â¦140 Â°F (0â¦60 Â°C)",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Ambient Air Temperature for Storage",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "-40â¦158 Â°F (-40â¦70 Â°C)",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Operating altitude",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "9842.52 ft (3000 m)",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Standards",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "IEC 61036<br />EN 61010<br />UL 508<br />ANSI C12.1",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Product certifications",
+          "characteristicValues": [
+            {
+              "needUpperCase": false,
+              "displayLinkIcon": false,
+              "labelText": "UL",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Width",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "11.3 in (288 mm)",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Height",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "5.7 in (146 mm)",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Net Weight",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "3.3 lb(US) (1.5 kg)",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tableName": "Ordering and shipping details",
+      "rows": [
+        {
+          "characteristicName": "Category",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "US10PL109793",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Discount Schedule",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "0PL1",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "GTIN",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "3606480640421",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Returnability",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "No",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Country of origin",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "US",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tableName": "Packing Units",
+      "rows": [
+        {
+          "characteristicName": "Unit Type of Package 1",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "PCE",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Number of Units in Package 1",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "1",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Package 1 Height",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "5.98 in (15.2 cm)",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Package 1 Width",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "12.01 in (30.5 cm)",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Package 1 Length",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "20.00 in (50.8 cm)",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Package 1 Weight",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "5.562 lb(US) (2.523 kg)",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "image_url": "https://download.schneider-electric.com/files?p_Doc_Ref=ODABCPMA042S-bis&p_File_Type=rendition_1500_jpg",
+  "datasheet_url": "https://www.se.com/us/en/product/download-pdf/BCPMC224S?filename=Schneider+Electric_PowerLogic-BCPM-Multicircuit-Meters_BCPMC224S.pdf"
+}

@@ -1,0 +1,920 @@
+{
+  "product_url": "https://www.se.com/hk/en/product/LC1D386MD/contactor-tesys-deca-3p3no-ac3-ac3e-440v-38a-220v-dc-coil-lugsring-terminals/",
+  "lang": "en",
+  "sku": "LC1D386MD",
+  "name": "Contactor, TeSys Deca, 3P(3NO), AC-3/AC-3e, <=440V, 38A, 220V DC coil, lugs-ring terminals",
+  "description": "TeSys D contactor, 3 poles (3NO), for motor control applications up to 38A/690V AC-3/3e (18.5kW@400V). It provides a 220V DC coil with transient suppressor module, 1NO+1NC built-in auxiliary contacts (NC mirror certified), connection by ring-lugs screw terminals. For operating rates until 3600 cycles/hour and environments until 60Â°C, it procures high reliability and durability. Compact (45mm width), DIN-rail mounting or screw fixing. Multi standards certified (IEC, UL, CSA, CCC, EAC, Marine), Green Premium compliant (RoHS/REACh).",
+  "specifications": [
+    {
+      "tableName": "Main",
+      "rows": [
+        {
+          "characteristicName": "Range",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "TeSys<br />TeSys Deca",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Range of product",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "TeSys Deca",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Product or component type",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "Contactor",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Device short name",
+          "characteristicValues": [
+            {
+              "needUpperCase": false,
+              "displayLinkIcon": false,
+              "labelText": "LC1D",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Contactor application",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "Motor control<br />Resistive load",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Utilisation category",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "AC-4<br />AC-1<br />AC-3<br />AC-3e",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Poles description",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "3P",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "[Ue] rated operational voltage",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "Power circuit: <= 690 V AC 25...400 Hz<br />Power circuit: <= 300 V DC",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "[Ie] rated operational current",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "50 A (at <60 Â°C) at <= 440 V AC AC-1 for power circuit<br />38 A (at <60 Â°C) at <= 440 V AC AC-3 for power circuit<br />38 A (at <60 Â°C) at <= 440 V AC AC-3e for power circuit",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "[Uc] control circuit voltage",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "220 V DC",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tableName": "Complementary",
+      "rows": [
+        {
+          "characteristicName": "Motor power kW",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "18.5 kW at 500 V AC 50/60 Hz (AC-3)<br />18.5 kW at 660...690 V AC 50/60 Hz (AC-3)<br />7.5 kW at 400 V AC 50/60 Hz (AC-4)<br />18.5 kW at 380...400 V AC 50/60 Hz (AC-3)<br />9 kW at 220...230 V AC 50/60 Hz (AC-3)<br />18.5 kW at 415...440 V AC 50/60 Hz (AC-3)<br />18.5 kW at 500 V AC 50/60 Hz (AC-3e)<br />18.5 kW at 660...690 V AC 50/60 Hz (AC-3e)<br />18.5 kW at 380...400 V AC 50/60 Hz (AC-3e)<br />9 kW at 220...230 V AC 50/60 Hz (AC-3e)<br />18.5 kW at 415...440 V AC 50/60 Hz (AC-3e)",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Motor power hp",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "10 hp at 230/240 V AC 50/60 Hz for 3 phases motors<br />10 hp at 200/208 V AC 50/60 Hz for 3 phases motors<br />5 hp at 240 V AC 50/60 Hz for 1 phase motors<br />20 hp at 480 V AC 50/60 Hz for 3 phases motors<br />25 hp at 600 V AC 50/60 Hz for 3 phases motors",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Compatibility code",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "LC1D",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Pole contact composition",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "3 NO",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Protective cover",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "With",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "[Ith] conventional free air thermal current",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "10 A (at 60 Â°C) for signalling circuit<br />50 A (at 60 Â°C) for power circuit",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Irms rated making capacity",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "140 A AC for signalling circuit conforming to IEC 60947-5-1<br />250 A DC for signalling circuit conforming to IEC 60947-5-1<br />550 A at 440 V for power circuit conforming to IEC 60947",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Rated breaking capacity",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "550 A at 440 V for power circuit conforming to IEC 60947",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "[Icw] rated short-time withstand current",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "60 A 40 Â°C - 10 min for power circuit<br />430 A 40 Â°C - 1 s for power circuit<br />150 A 40 Â°C - 1 min for power circuit<br />310 A 40 Â°C - 10 s for power circuit<br />100 A - 1 s for signalling circuit<br />120 A - 500 ms for signalling circuit<br />140 A - 100 ms for signalling circuit",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Associated fuse rating",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "10 A gG for signalling circuit conforming to IEC 60947-5-1<br />63 A gG at <= 690 V coordination type 1 for power circuit<br />63 A gG at <= 690 V coordination type 2 for power circuit",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Average impedance",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "2 mOhm - Ith 50 A 50 Hz for power circuit",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Power dissipation per pole",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "5 W AC-1<br />3 W AC-3<br />3 W AC-3e",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "[Ui] rated insulation voltage",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "Power circuit: 600 V CSA certified<br />Power circuit: 600 V UL certified<br />Signalling circuit: 690 V conforming to IEC 60947-1<br />Signalling circuit: 600 V CSA certified<br />Signalling circuit: 600 V UL certified<br />Power circuit: 690 V conforming to IEC 60947-4-1",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Overvoltage category",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "III",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "pollution degree",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "3",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "[Uimp] rated impulse withstand voltage",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "6 kV conforming to IEC 60947",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Safety reliability level",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "B10d = 1369863 cycles contactor with nominal load conforming to EN/ISO 13849-1<br />B10d = 20000000 cycles contactor with mechanical load conforming to EN/ISO 13849-1",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Mechanical durability",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "30 Mcycles",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Electrical durability",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "1.4 Mcycles 50 A AC-1 at Ue <= 440 V<br />1.4 Mcycles 38 A AC-3 at Ue <= 440 V<br />1.4 Mcycles 38 A AC-3e at Ue <= 440 V",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Control circuit type",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "DC standard",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Coil technology",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "Built-in bidirectional peak limiting diode suppressor",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Control circuit voltage limits",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "0.1...0.25 Uc (-40â¦70 Â°C):drop-out DC<br />0.7...1.25 Uc (-40â¦60 Â°C):operational DC<br />1...1.25 Uc (60â¦70 Â°C):operational DC",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Inrush power in W",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "5.4 W (at 20 Â°C)",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Hold-in power consumption in W",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "5.4 W at 20 Â°C",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Operating time",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "20 Â±20 % ms opening<br />63 Â±15 % ms closing",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Time constant",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "28 ms",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Maximum operating rate",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "3600 cyc/h at 60 Â°C",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Connections - terminals",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "Control circuit: lugs-ring terminals - external diameter: 8 mm<br />Power circuit: lugs-ring terminals - external diameter: 10 mm",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Tightening torque",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "Control circuit: 1.7 N.m - on lugs-ring terminals - with screwdriver flat Ã 6 mm M3.5<br />Control circuit: 1.7 N.m - on lugs-ring terminals - with screwdriver Philips No 2 M3.5<br />Power circuit: 2.5 N.m - on lugs-ring terminals - with screwdriver flat Ã 8 mm M4<br />Power circuit: 2.5 N.m - on lugs-ring terminals - with screwdriver Philips No 2 M4<br />Control circuit: 1.7 N.m - on screw clamp terminals - with screwdriver pozidriv No 2<br />Power circuit: 2.5 N.m - on screw clamp terminals - with screwdriver pozidriv No 2",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Auxiliary contact composition",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "1 NO + 1 NC",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Auxiliary contacts type",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "type mechanically linked 1 NO + 1 NC conforming to IEC 60947-5-1<br /> type mirror contact 1 NC conforming to IEC 60947-4-1",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Signalling circuit frequency",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "25...400 Hz",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Minimum switching voltage",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "17 V for signalling circuit",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Minimum switching current",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "5 mA for signalling circuit",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Insulation resistance",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "> 10 MOhm for signalling circuit",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Non-overlap time",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "1.5 ms on de-energisation between NC and NO contact<br />1.5 ms on energisation between NC and NO contact",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Mounting support",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "Plate<br />Rail",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tableName": "Environment",
+      "rows": [
+        {
+          "characteristicName": "Standards",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "CSA C22.2 No 14<br />EN 60947-4-1<br />EN 60947-5-1<br />IEC 60947-4-1<br />IEC 60947-5-1<br />UL 60947-4-1<br />IEC 60335-1:Clause 30.2<br />IEC 60335-2-40:Annex JJ<br />UL 60335-2-40:Annex JJ<br />CSA C22.2 No 60947-4-1",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Product certifications",
+          "characteristicValues": [
+            {
+              "needUpperCase": false,
+              "displayLinkIcon": false,
+              "labelText": "UL<br />CCC<br />CSA<br />Marine<br />UKCA<br />EAC<br />CB Scheme",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "IP degree of protection",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "IP20 front face conforming to IEC 60529",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Protective treatment",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "TH conforming to IEC 60068-2-30",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Climatic withstand",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "conforming to IACS E10 exposure to damp heat<br /> conforming to IEC 60947-1 Annex Q category D exposure to damp heat",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Permissible ambient air temperature around the device",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "-40â¦60 Â°C<br />60â¦70 Â°C with derating",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Operating altitude",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "0...3000 m",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Fire resistance",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "850 Â°C conforming to IEC 60695-2-1",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Flame retardance",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "V1 conforming to UL 94",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Mechanical robustness",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "Vibrations contactor open (2 Gn, 5...300 Hz) <br />Vibrations contactor closed (4 Gn, 5...300 Hz) <br />Shocks contactor closed (15 Gn for 11 ms) <br />Shocks contactor open (8 Gn for 11 ms)",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Height",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "85 mm",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Width",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "45 mm",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Depth",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "101 mm",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Net weight",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "0.54 kg",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tableName": "Packing Units",
+      "rows": [
+        {
+          "characteristicName": "Unit Type of Package 1",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "PCE",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Number of Units in Package 1",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "1",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Package 1 Height",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "10.9 cm",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Package 1 Width",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "9.0 cm",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Package 1 Length",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "5.4 cm",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        },
+        {
+          "characteristicName": "Package 1 Weight",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "544.0 g",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tableName": "Contractual warranty",
+      "rows": [
+        {
+          "characteristicName": "Warranty",
+          "characteristicValues": [
+            {
+              "needUpperCase": true,
+              "displayLinkIcon": false,
+              "labelText": "18 months",
+              "externalUrl": null,
+              "beforeText": null,
+              "afterText": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "image_url": "https://download.schneider-electric.com/files?p_Doc_Ref=LC1D386MD_Image&p_File_Type=rendition_1500_jpg",
+  "datasheet_url": "https://www.se.com/hk/en/product/download-pdf/LC1D386MD?filename=Schneider+Electric_TeSys-Deca-contactors_LC1D386MD.pdf"
+}
